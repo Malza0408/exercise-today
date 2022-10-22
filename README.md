@@ -96,7 +96,6 @@ yarn start
   ### 서브 기능
   - 캘린더 기능
   - 북마크 기능
-  - 간단한 로그인 방법
 
   ### 프로젝트만의 차별점, 기대 효과
   - 칼로리 계산, 부위별 운동, 음악 등 다양한 서비스를 제공하여 사용자가 보다 쉽게 운동 할 수 있도록 도와줍니다
@@ -104,8 +103,6 @@ yarn start
   - 다른 사용자의 좋아요 기록을 볼 수 있어 공통 관심사를 가진 사용자를 찾을 수 있습니다.
   - 부위별, 도구별 운동 추천을 시각화하여 보여줍니다.
   - 데이터 분석을 통해 엄선된 음악 데이터를 사용자의 기호에 따라 필터링하여 제공합니다.
-  - 구글, 카카오, 네이버 oAuth를 통해 간편 로그인이 가능합니다.
-
 
 ## 5. 프로젝트 구성도
   - [오늘도 운동 와이어프레임](https://www.figma.com/file/aqjh4XO6Ivdjs8hcNmk94L/%EC%98%A4%EB%8A%98%EB%8F%84-%EC%9A%B4%EB%8F%99?node-id=0%3A1)
@@ -144,4 +141,15 @@ yarn start
 - 수정 단계: 코치님 피드백 반영해서 분석/ 시각화 방식 수정
 
 ## 7. 데모
+### 메인 페이지
+![main](https://user-images.githubusercontent.com/82519572/197346455-dbd47521-6534-4191-bafa-a5a084093d32.gif)
 
+### 섭취한 칼로리를 태우기 위해 얼마나 운동해야 하는지 시각화
+![calorie](https://user-images.githubusercontent.com/82519572/197346781-fdb5cde2-ee00-4ec7-b453-e436086387ff.gif)
+
+### 음악 추천 페이지
+![music](https://user-images.githubusercontent.com/82519572/197347332-81b5be80-f965-4a9e-abd6-91b0f98c93ab.gif)
+
+### 캘린더
+용량이 큰 관계로 영상으로 대체합니다.  
+[calendar](https://drive.google.com/file/d/1ouJIOn-2UsIKwY7-yCUpDxCfslmkELp_/view?usp=sharing)
