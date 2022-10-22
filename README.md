@@ -5,8 +5,26 @@ GitLab에서 진행된 프로젝트입니다. (mirroring을 통해 github로 이
 # 오늘도 운동
 - 어떤 운동을 할 지 고민하는데 시간을 쓰지 마세요!
 
+## 1. 서비스 실행
+```
+git clone https://github.com/Malza0408/exercise-today.git
+cd exercise-today
+```
 
-## 1. 프로젝트 소개
+- Front
+```
+cd front
+yarn install
+yarn start
+```
+- Back
+```
+cd back
+yarn install
+yarn start
+```
+
+## 2. 프로젝트 소개
 
 ### 사용한 데이터
   - [Calories Burned During Exercise and Activities](https://www.kaggle.com/datasets/aadhavvignesh/calories-burned-during-exercise-and-activities): 운동별 시간당 칼로리 데이터  
@@ -52,7 +70,7 @@ GitLab에서 진행된 프로젝트입니다. (mirroring을 통해 github로 이
 * 북마크 기능 - 회원을 위한 운동, 음식, 회원, 음악 북마크 기능
 
 
-## 2. 프로젝트 목표
+## 3. 프로젝트 목표
 ##### 1. 메인 목표
 * 운동 추천 사이트를 만들자!
 * 운동 효과를 높일 음악 추천 기능을 만들자!
@@ -68,7 +86,7 @@ GitLab에서 진행된 프로젝트입니다. (mirroring을 통해 github로 이
 * 운동의 장점을 설명하는 데이터 '분석'을 하자!
 
 
-## 3. 프로젝트 기능 설명
+## 4. 프로젝트 기능 설명
 
   ### 메인 기능 
   - 칼로리별 운동 추천
@@ -89,12 +107,12 @@ GitLab에서 진행된 프로젝트입니다. (mirroring을 통해 github로 이
   - 구글, 카카오, 네이버 oAuth를 통해 간편 로그인이 가능합니다.
 
 
-## 4. 프로젝트 구성도
+## 5. 프로젝트 구성도
   - [오늘도 운동 와이어프레임](https://www.figma.com/file/aqjh4XO6Ivdjs8hcNmk94L/%EC%98%A4%EB%8A%98%EB%8F%84-%EC%9A%B4%EB%8F%99?node-id=0%3A1)
 
 
 
-## 5. 프로젝트 팀원 역할 분담
+## 6. 프로젝트 팀원 역할 분담
 | 이름 | 담당 업무 |
 | ------ | ------ |
 | 박정훈 | 프론트엔드 개발 / 발표 |
@@ -125,9 +143,9 @@ GitLab에서 진행된 프로젝트입니다. (mirroring을 통해 github로 이
 - 개발 단계: 웹 서버 사용자가 직접 백엔드에 저장할수 있는 기능 구현, 데이터 베이스 구축 및 API 활용, 데이터 분석 개념 총동원하기
 - 수정 단계: 코치님 피드백 반영해서 분석/ 시각화 방식 수정
 
-## 6. 버전
+## 7. 버전
   - 1.0.0
 
-## 7. FAQ
+## 8. FAQ
   - 자주 받는 질문 정리
 
